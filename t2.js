@@ -1,3 +1,6 @@
 console.log('t2')
 console.log('t3')
 console.log('t4')
+console.log('o1')
+console.log('o2')
+console.log('o3')
